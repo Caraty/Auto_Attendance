@@ -78,7 +78,7 @@
 
 ## 修改打卡时间
 
-打开项目中的/.github/workflows/python-package.yml文件，修改corn中的值，注意使用UTC零区时间。
+打开项目中的/.github/workflows/python-package.yml文件，修改corn中的值，注意使用UTC零区时间。 
 
 例如，当前默认打卡时间是北京时间(UTC+8)每天7:05，换算成UTC零区时间为23:05。
 
